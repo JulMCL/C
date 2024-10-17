@@ -1,0 +1,5 @@
+a) feet, fathoms
+b) line 9 - declaring the integers feet and fathoms
+   line 13 - fathoms is the lvalue, 2 is the rvalue
+   line 15 - feet is the lvalue while (6 * fathoms is the rvalue
+   
