@@ -1,0 +1,2 @@
+As for the readability, the recursive function is easier to understand and trace, due to the fact that it loops itself. On the other hand, the iterative function required an extra variable temp in order to perform this algorithm.
+Regarding the stack frame usage, the iterative function uses just one stack frame, and the iterations are all done on it. For the recursive function, a stack frame is used  for each of the recursive calls.

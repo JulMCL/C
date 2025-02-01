@@ -1,0 +1,2 @@
+As for the readability, the recursive function is easier to understand and follow, however debugging may be easier for the iterative function as no nested looping is used in this case.
+Regarding stack frame usage, the iterative function just uses one stack frame as there is just one function, meanwhile for the recursive function a new stack frame is created for each recursive call. This means that, especially at larger numbers, significantly more memory is used.
